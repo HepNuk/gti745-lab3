@@ -9,6 +9,13 @@
 /unity-project/[Bb]uilds/
 /unity-project/[Ll]ogs/
 /unity-project/[Uu]ser[Ss]ettings/
+/Rollaball/Library/PackageCache/
+/Rollaball/Library/Artifacts
+/Rollaball/Library/ShaderCache
+/Rollaball/Library/StateCache
+/Rollaball/Temp
+/Rollaball/Logs
+/unity-project/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data

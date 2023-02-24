@@ -9,12 +9,15 @@
 /unity-project/[Bb]uilds/
 /unity-project/[Ll]ogs/
 /unity-project/[Uu]ser[Ss]ettings/
-/Rollaball/Library/PackageCache/
-/Rollaball/Library/Artifacts
-/Rollaball/Library/ShaderCache
-/Rollaball/Library/StateCache
-/Rollaball/Temp
-/Rollaball/Logs
+
+/Rollaball/[Ll]ibrary/
+/Rollaball/[Tt]emp/
+/Rollaball/[Oo]bj/
+/Rollaball/[Bb]uild/
+/Rollaball/[Bb]uilds/
+/Rollaball/[Ll]ogs/
+/Rollaball/[Uu]ser[Ss]ettings/
+
 /unity-project/
 
 # MemoryCaptures can get excessive in size.
@@ -77,3 +80,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /unity-project/[Aa]ssets/[Ss]treamingAssets/aa.meta
 /unity-project/[Aa]ssets/[Ss]treamingAssets/aa/*
+/Rollaball/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/Rollaball/[Aa]ssets/[Ss]treamingAssets/aa/*
